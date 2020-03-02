@@ -1,0 +1,14 @@
+{
+  "name": "cs-546-lab-3",
+  "version": "1.0.0",
+  "description": "Asynchronous Code, Files, and Promises",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Madhu Vandhana Vijay Kumar 10456246",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.7.2"
+  }
+}
